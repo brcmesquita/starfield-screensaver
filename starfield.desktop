@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Starfield
+Exec=/usr/libexec/xfce4-screensaver/starfield --root
+TryExec=/usr/libexec/xfce4-screensaver/starfield
+Comment=Stars flying toward the screen, in the style of the classic Windows 3.1/95 "Flying Through Space" screensaver.
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver;
